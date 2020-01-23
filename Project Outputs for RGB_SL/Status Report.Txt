@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [RGB_SL.PcbDoc]
+   Generated File[No DIPs.TXT]
+   Generated File[No DIPs.LDP]
+   Generated File[No DIPs.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:48:55 PM On 10/8/2019
