@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:25:03 PM On 8/9/2020
+
+Output: Pick Place
+Type  : Pick Place
+From  : Variant [No DIPs] of PCB Document [RGB_SL.PcbDoc]
+   Generated File[Pick Place RGB Glitter Lamp No DIPs.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:25:04 PM On 8/9/2020

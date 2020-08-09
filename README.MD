@@ -1,5 +1,19 @@
 ## RGB Glitter Lamp Project
-<img src="/logo.PNG" width="600" ><img src="/logo1.jpg" height="298" >
+
+![](/logo1.jpg)
 
 
-RGB Glitter Lamp based on Atmega328 wich controls lightning and heating
+![](/View.png)
+
+
+![](/ASM.png)
+
+
+![](/Mecha.png)
+
+
+This lamp has the same purpouse as Lava Lamp, but using safer voltages and temperatures. 
+
+Atmega328 is used to control RGB lights and heater. 2W resistors used as a heater and thermistor provides temperature feedback.
+
+The PCB was actually manufactured and assembled. 

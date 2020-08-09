@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+D:\Work\GitHub\RGB_Glitter_Lamp\Release Files\[2] Board Assembly\RGB Glitter Lamp No DIPs\Pick Place RGB Glitter Lamp No DIPs.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/08/20
+Time:       17:25
+Revision:   dd851dcfc144955b8dc49bf90d624ad1ea9d3a14
+Variant:    No DIPs
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P1","Header 5H","BottomLayer","HDR1X5H","-12.4000","0.0000","90","Header, 5-Pin, Right Angle"
+"C7","0.1uF","BottomLayer","0805_Ceramic_Capacitor","1.8000","5.6000","360","Ceramic Cap 0.1uF 50 V 10% MLCC - SMD/SMT"
+"S6","+5V","BottomLayer","TEST_PAD","-3.9001","4.1000","360",""
+"S5","GND","BottomLayer","TEST_PAD","-3.9001","6.5000","360",""
+"S4","SCK","BottomLayer","TEST_PAD","-3.9001","1.7000","360",""
+"S3","MISO","BottomLayer","TEST_PAD","-3.9001","-0.7000","360",""
+"S2","MOSI","BottomLayer","TEST_PAD","-3.9001","-3.1000","360",""
+"S1","RST","BottomLayer","TEST_PAD","13.4000","7.5000","360",""
+"R22","510R","BottomLayer","0805_RES","-8.3000","-4.9000","180","RES SMD 510 OHM 1% 1/8W 0805"
+"D6","GREEN","BottomLayer","LED_G","-8.3000","-1.8000","180","LED GREEN DIFFUSED 0805 SMD"
+"R9","100K","TopLayer","0805_RES","9.2000","8.3000","270","RES SMD 100K Ohm 1% 0.2W(1/5W) ±25ppm/C Sulfur Resistant Conformal Coated Pad SMD Automotive Medical T/R"
+"Q1","MOSFET P-Ch","TopLayer","DPAK254P1524X483-3M","-5.5000","1.4750","90","MOSFET P-Ch LL FET Enhancement Mode"
+"U1","Atmega328P","BottomLayer","TQFP80P900X900X120-32M","7.3000","-1.1500","90","IC MCU 8BIT 32KB FLASH 32TQFP"
+"SW1","RESET","BottomLayer","SWITCH","17.6000","0.0000","90","SWITCH TACTILE SPST-NO 0.05A 24V"
+"RT1","100K","TopLayer","THERMISTOR","4.0500","9.2000","0","THERMISTOR 100K OHM 5% BEAD"
+"R8","2W 11R","TopLayer","RES_T/H_2W","-15.0000","0.0000","90","RES T/H 11 Ohm 2W 5% ±300ppm/°C Conformal AXL Thru-Hole Ammo Pack"
+"R7","2W 11R","TopLayer","RES_T/H_2W","-0.1000","-15.0000","180","RES T/H 11 Ohm 2W 5% ±300ppm/°C Conformal AXL Thru-Hole Ammo Pack"
+"R6","2W 11R","TopLayer","RES_T/H_2W","15.0000","0.0000","90","RES T/H 11 Ohm 2W 5% ±300ppm/°C Conformal AXL Thru-Hole Ammo Pack"
+"R5","2W 11R","TopLayer","RES_T/H_2W","0.0000","15.0000","180","RES T/H 11 Ohm 2W 5% ±300ppm/°C Conformal AXL Thru-Hole Ammo Pack"
+"R4","10K","TopLayer","0805_RES","9.7000","-3.9000","360","RES SMD 10K OHM 1% 1/8W 0805"
+"R3","1K","TopLayer","0805_RES","4.7000","1.3000","270","RES SMD 1K OHM 1% 1/8W 0805"
+"R2","10K","BottomLayer","0805_RES","9.4000","5.6000","360","RES SMD 10K OHM 1% 1/8W 0805"
+"R1","4k7","TopLayer","0805_RES","4.7000","-3.3000","270","RES SMD 4.7K Ohm 5% 1/8W ±200ppm/°C Molded SMD Paper T/R"
+"Q2","16MHz","TopLayer","CRYSTAL","4.9000","-8.8000","180","CRYSTAL 16.0000MHZ 20PF SMD"
+"D4","LED RGB","TopLayer","LED_RGB","0.0000","-22.0000","0","LED RGB DIFFUSED 5MM T/H"
+"D3","LED RGB","TopLayer","LED_RGB","22.0000","0.0000","270","LED RGB DIFFUSED 5MM T/H"
+"D2","LED RGB","TopLayer","LED_RGB","0.0000","22.0000","0","LED RGB DIFFUSED 5MM T/H"
+"D1","LED RGB","TopLayer","LED_RGB","-22.0000","0.0000","90","LED RGB DIFFUSED 5MM T/H"
+"C5","22pF","BottomLayer","0805_CERAMIC_CAPACITOR","1.2000","-8.8000","360","0805 22 pF 50 V ±5 % Tolerance C0G/NP0 SMT Multilayer Ceramic Chip Capacitor"
+"C4","0.1uF","BottomLayer","0805_CERAMIC_CAPACITOR","13.5000","-8.0000","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT .1uF 50volts 10%"
+"C3","0.1uF","BottomLayer","0805_CERAMIC_CAPACITOR","5.6000","5.6000","360","Multilayer Ceramic Capacitors MLCC - SMD/SMT .1uF 50volts 10%"
+"C2","22pF","BottomLayer","0805_CERAMIC_CAPACITOR","8.6000","-8.8000","180","0805 22 pF 50 V ±5 % Tolerance C0G/NP0 SMT Multilayer Ceramic Chip Capacitor"
+"C1","0.1uF","BottomLayer","0805_CERAMIC_CAPACITOR","0.2000","11.7000","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT .1uF 50volts 10%"
+"BT1","BC847","TopLayer","SOT95P240X100-3M","9.8500","1.4500","90","Trans NPN 45V 0.1A Automotive 3-Pin SOT-23 T/R GP BJT"
+"R10","270R","TopLayer","1206_RES","-15.0000","0.0000","90","RES SMD 270 OHM 1% 1/4W 1206"
+"R11","100R","TopLayer","1206_RES","-21.0000","6.5000","90","RES SMD 100 OHM 1% 1/4W 1206"
+"R12","100R","TopLayer","1206_RES","-21.0000","-6.5000","270","RES SMD 100 OHM 1% 1/4W 1206"
+"R13","270R","TopLayer","1206_RES","0.0000","15.0000","0","RES SMD 270 OHM 1% 1/4W 1206"
+"R14","100R","TopLayer","1206_RES","6.5000","21.0000","360","RES SMD 100 OHM 1% 1/4W 1206"
+"R15","100R","TopLayer","1206_RES","-6.5000","21.0000","180","RES SMD 100 OHM 1% 1/4W 1206"
+"R16","270R","TopLayer","1206_RES","15.0000","0.0000","270","RES SMD 270 OHM 1% 1/4W 1206"
+"R17","100R","TopLayer","1206_RES","21.0000","-6.5000","270","RES SMD 100 OHM 1% 1/4W 1206"
+"R18","100R","TopLayer","1206_RES","21.0000","6.5000","90","RES SMD 100 OHM 1% 1/4W 1206"
+"R19","270R","TopLayer","1206_RES","0.0000","-15.0000","0","RES SMD 270 OHM 1% 1/4W 1206"
+"R20","100R","TopLayer","1206_RES","6.2000","-21.0000","360","RES SMD 100 OHM 1% 1/4W 1206"
+"R21","100R","TopLayer","1206_RES","-6.1000","-21.4000","180","RES SMD 100 OHM 1% 1/4W 1206"
+"C6","10uF 6.3V","BottomLayer","CAP_MP3216X16M","0.0000","-15.0000","180","CAP TANT 10UF 6.3V 10% 1206"
+"D5","MBRA210LT3G","TopLayer","DIOM4326X22M","-6.2000","-8.8000","180","DIODE SCHOTTKY 10V 2A SMA"

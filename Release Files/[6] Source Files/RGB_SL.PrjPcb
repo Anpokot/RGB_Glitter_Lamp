@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for RGB_SL
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,360 +106,212 @@ Variation9=Designator=R8|UniqueId=\VCKRQFTU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Release Files\[6] Source Files\.gitignore
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Release Files\[4] 3D\3D Model RGB Glitter Lamp No DIPs.step
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for RGB_SL\Export STEP\[No Variations].step
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Release Files\[6] Source Files\BOM Template.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Release Files\[6] Source Files\Capture.PNG
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for RGB_SL\Design Rule Check - RGB_SL.html
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\board_outline\features
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\comments_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\drill_drawing\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\drill_guide\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\mechanical_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\mechanical_17\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\mechanical_29\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\mechanical_30\features
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\multi-layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Release Files\[6] Source Files\logo1.jpg
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Release Files\[6] Source Files\logo.PNG
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Release Files\[6] Source Files\MainBLib.PcbLib
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Release Files\[6] Source Files\MainBLib.SchLib
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for RGB_SL\NC Drill Files\No DIPs.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for RGB_SL\NC Drill Files\No DIPs.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.REP
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for RGB_SL\Gerber Files\No DIPs.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for RGB_SL\Export STEP\No DIPs.step
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for RGB_SL\Generates pick and place files\No DIPs.txt
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for RGB_SL\NC Drill Files\No DIPs.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for RGB_SL\Bill of Materials\No DIPs.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument57]
-DocumentPath=Release Files\[2] Board Assembly\RGB Glitter Lamp No DIPs\Pick Place RGB Glitter Lamp No DIPs.csv
-DItemRevisionGUID=
-
-[GeneratedDocument58]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument59]
-DocumentPath=Release Files\[6] Source Files\README.MD
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Release Files\[6] Source Files\RGB.OutJob
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.Dat
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.PcbDoc
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.PrjPcb
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.PrjPcbStructure
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.PrjPcbVariants
-DItemRevisionGUID=
-
-[GeneratedDocument67]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for RGB_SL\ODB\RGB_SL.REP
 DItemRevisionGUID=
 
-[GeneratedDocument68]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.SchDoc
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Release Files\[6] Source Files\RGB_SL.step
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\RGB Glitter Lamp.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\RGB Glitter Lamp.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument82]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.REP
-DItemRevisionGUID=
-
-[GeneratedDocument83]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RGB Glitter Lamp.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument84]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\RGB Glitter Lamp.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument85]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for RGB_SL\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
-
-[Parameter1]
-Name=Link
-Value=https://github.com/Anpokot/RGB_Glitter_Lamp
-
-[Parameter2]
-Name=Company
-Value=Andrii Pokotilov
-
-[Parameter3]
-Name=Project
-Value=RGB Glitter Lamp
 
 [Configuration1]
 Name=Sources
@@ -472,7 +324,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for RGB_SL
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [No DIPs] of PCB Document [RGB_SL.PcbDoc]
+   Generated File[RGB Glitter Lamp.GTO]
+   Generated File[RGB Glitter Lamp.GTP]
+   Generated File[RGB Glitter Lamp.GTS]
+   Generated File[RGB Glitter Lamp.GTL]
+   Generated File[RGB Glitter Lamp.GBL]
+   Generated File[RGB Glitter Lamp.GBS]
+   Generated File[RGB Glitter Lamp.GBO]
+   Generated File[RGB Glitter Lamp.GM2]
+   Generated File[RGB Glitter Lamp.GM3]
+   Generated File[RGB Glitter Lamp.RUL]
+   Generated File[RGB Glitter Lamp.EXTREP]
+   Generated File[RGB Glitter Lamp.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 5:24:45 PM On 8/9/2020

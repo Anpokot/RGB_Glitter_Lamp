@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:38:04 PM On 8/9/2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [No DIPs] of PCB Document [RGB_SL.PcbDoc]
+   Generated File[3D Model RGB Glitter Lamp No DIPs.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:38:05 PM On 8/9/2020
