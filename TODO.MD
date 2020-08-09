@@ -1,2 +1,2 @@
-- add heateer "on/off" indication led
-- design printable enclosure
+- Add heater "on/off" indication led
+- Design printable enclosure
