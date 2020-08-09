@@ -1,15 +1,20 @@
 ## RGB Glitter Lamp Project
 
-![](/logo1.jpg)
+### 3D View
 
+![](/logo1.jpg)</br>
 
-![](/View.png)
+### Top and Bottom View
 
+![](/View.png)</br>
 
-![](/ASM.png)
+### Assembly View
 
+![](/ASM.png)</br>
 
-![](/Mecha.png)
+### Mechanical View
+
+![](/Mecha.png)</br>
 
 ### History
 
