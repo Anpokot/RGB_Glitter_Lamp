@@ -1,6 +1,6 @@
 ## RGB Glitter Lamp Project
 
-![](/logo.jpg)
+![](/logo1.jpg)
 
 
 ![](/View.png)
