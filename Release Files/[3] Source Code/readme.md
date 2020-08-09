@@ -3,7 +3,7 @@
 ### Code description
 
 ALA librarry provides defferent animations for RGB LED's </br>
-Animation selection using rotary encoder with interrupts and no delay </br>
+Animation selection using rotary encoder with interrupts and temperature control with no delay </br>
 Filtering provides valid input and allows to use low quality ecoders</br>
 
 ### Thanks to
