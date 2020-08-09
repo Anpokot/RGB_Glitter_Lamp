@@ -9,7 +9,7 @@
 ![](/ASM.png)
 
 
-![](/Mecha.png)![](/logo1.jpg)
+![](/Mecha.png)
 
 
 This lamp has the same purpouse as Lava Lamp, but using safer voltages and temperatures. 
