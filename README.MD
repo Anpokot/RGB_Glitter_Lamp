@@ -22,7 +22,7 @@
 
 ### History
 
-Inspiered by this video [Gillian's Diamonds lamp](https://youtu.be/PCyUxlsRoRc) I decided to create my own version with extra features</br>
+Inspiered by this video [Gillian's Diamonds lamp](https://youtu.be/PCyUxlsRoRc?t=2872) I decided to create my own version with extra features</br>
 
 Atmega328 is used to control RGB lights and heater. 2W resistors used as a heater and thermistor provides temperature feedback</br>
 
